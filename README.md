@@ -1,3 +1,3 @@
 # Test
 
-This repo is for testing purposes only.
+This repository is for testing purposes only.
